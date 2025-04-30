@@ -1,0 +1,15 @@
+name: "Characterization of the teat canal microbiome and its association with early postpartum intramammary infections in first-lactation organic dairy cows"
+header-includes: 
+  \usepackage{graphicx}
+  \usepackage{float}
+output_dir: "docs"
+navbar:
+  title: "Home"
+  right:
+    - text: "Code and output"
+      href: teat_canal_microbiome.html
+    - icon: fa-github fa-lg
+      href: http://github.com/fepenamosca/
+output:  
+   html_document:
+    theme: flatly
